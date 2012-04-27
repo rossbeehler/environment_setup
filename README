@@ -1,0 +1,16 @@
+This repository contains a lot of the files I need when setting up a new environment, repository, or project.
+
+Contents:
+
+.vimrc - based very much on Gary Bernhardt's .vimrc.  See his github account for more information.
+
+.vim/autload/ - contains pathogen.vim.
+
+.vim/bundle/ - the vim plugins loaded by pathogen.  Countains the following.
+  - Command-T - clone from https://github.com/wincent/Command-T.git
+  - matchit - included.
+  - vim-ruby-refactoring - clone from https://github.com/rossbeehler/vim-ruby-refactoring
+
+.vim/colors/ - the same color scheme as used in Destroy all Software screencasts.
+
+script/ - Test scripts also stolen from Destroy all Software, with minor modifications to turn off rails support by default.
