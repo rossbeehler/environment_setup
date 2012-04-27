@@ -9,7 +9,7 @@ Contents:
 .vim/bundle/ - the vim plugins loaded by pathogen.  Contains the following.
   - Command-T - clone from https://github.com/wincent/Command-T.git
   - matchit - included.
-  - vim-ruby-refactoring - clone from https://github.com/rossbeehler/vim-ruby-refactoring
+  - vim-ruby-refactoring - clone from https://rossbeehler@github.com/rossbeehler/vim-ruby-refactoring.git
 
 .vim/colors/ - the same color scheme as used in Destroy all Software screencasts.
 
