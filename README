@@ -6,7 +6,7 @@ Contents:
 
 .vim/autload/ - contains pathogen.vim.
 
-.vim/bundle/ - the vim plugins loaded by pathogen.  Countains the following.
+.vim/bundle/ - the vim plugins loaded by pathogen.  Contains the following.
   - Command-T - clone from https://github.com/wincent/Command-T.git
   - matchit - included.
   - vim-ruby-refactoring - clone from https://github.com/rossbeehler/vim-ruby-refactoring
