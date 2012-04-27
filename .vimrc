@@ -1,5 +1,8 @@
 set number
 
+" stamping - last yanked text over 'inner word'
+nnoremap S diw"0P
+
 " This is Gary Bernhardt's .vimrc file
 " vim:set ts=2 sts=2 sw=2 expandtab:
 
