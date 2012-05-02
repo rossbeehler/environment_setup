@@ -1,5 +1,5 @@
 #!/bin/bash
-setupSourceDir="$( cd -P "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+setupSourceDir="$( cd "$( dirname "$0" )" && pwd )"
 mkdir $1
 mkdir $1/script/
 cp $setupSourceDir/script/* $1/script/
