@@ -3,6 +3,7 @@ This repository contains a lot of the files I need when setting up a new environ
 Contents:
 
 .vimrc - based very much on Gary Bernhardt's .vimrc.  See his github account for more information.
+_vimrc - gvim/Windows version of .vimrc.
 
 .vim/autload/ - contains pathogen.vim.
 
